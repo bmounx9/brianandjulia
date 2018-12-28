@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="flex-center position-ref full-height">
-    <div class="content red">
+    <div class="content blue">
         Hello
     </div>
 </div>
