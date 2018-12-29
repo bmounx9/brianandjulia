@@ -4,11 +4,11 @@
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home</title>
+    <title>Accomodation</title>
 </head>
 <body>
 <div class="flex-center position-ref full-height">
-    <div>Home</div>
+    <div>Accomodation</div>
     <div class="content blue">
         <a href="/">HOME</a>
         <a href="/accomodation">Accomodation</a>
