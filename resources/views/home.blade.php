@@ -2,6 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+    <script src="/js/bootstrap.js"></script>
     <script src="/js/app.js"></script>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta charset="utf-8">
