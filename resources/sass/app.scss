@@ -1,19 +1,52 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-// Variables
+@font-face {
+    font-family: "maison-neue-book";
+    src: url("/fonts/maison-neue-book/webfont.eot");
+    src: url("/fonts/maison-neue-book/webfont.eot") format("embedded-opentype"),
+       	 url("/fonts/maison-neue-book/webfont.woff2") format("woff2"),
+       	 url("/fonts/maison-neue-book/webfont.woff") format("woff"),
+       	 url("/fonts/maison-neue-book/webfont.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "zapf-humanist";
+    src: url("/fonts/zapf-humanist/webfont.eot");
+    src: url("/fonts/zapf-humanist/webfont.eot") format("embedded-opentype"),
+       	 url("/fonts/zapf-humanist/webfont.woff2") format("woff2"),
+       	 url("/fonts/zapf-humanist/webfont.woff") format("woff"),
+       	 url("/fonts/zapf-humanist/webfont.ttf") format("truetype");
+    font-style: normal;
+}
+
+// Sass
 @import 'variables';
+
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-.navbar-laravel {
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+body {
+	letter-spacing: 1px;
 }
 
-.red {
-    color: red;
+h1, h2, h3 {
+	font-family: $font-family-display;
 }
 
-.blue {
-    color: green;
+p {
+	font-size: 18px;
+}
+
+.navbar-brand {
+	font-family: $font-family-display;
+	font-size: 30px;
+}
+
+.header {
+	height: 80vh;
+	text-align: center;
+
+	&__date {
+		font-size: 64px;
+	}
 }

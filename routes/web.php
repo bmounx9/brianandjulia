@@ -15,8 +15,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/accomodation', function () {
-    return view('accomodation');
+Route::get('/accommodation', function () {
+    return view('accommodation');
 });
 
 Route::get('/rsvp', function () {
