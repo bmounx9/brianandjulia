@@ -25,16 +25,33 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-body {
-	letter-spacing: 1px;
-}
-
 h1, h2, h3 {
 	font-family: $font-family-display;
 }
 
 p {
-	font-size: 18px;
+	font-size: 1.1rem;
+	letter-spacing: 1px;
+}
+
+a {
+	color: $slate-blue;
+
+	&:hover {
+		color: $slate-blue;
+	}
+}
+
+.home-section {
+	margin-bottom: 60px;
+
+	@include media-breakpoint-up(md) {
+		margin-bottom: 120px;
+	}
+}
+
+.align-items-center {
+	height: 100%;
 }
 
 .navbar-brand {
@@ -42,16 +59,26 @@ p {
 	font-size: 30px;
 }
 
+.navbar-light {
+	.navbar-toggler {
+		border: none;
+	}
+}
+
+.nav-item {
+	letter-spacing: 1px;
+}
+
 .header {
-	height: 70vh;
+	height: 500px;
 	text-align: center;
 
-	> div {
-		height: 100%;
-	}
-
 	&__date {
-		font-size: 64px;
+		font-size: 2.2rem;
+
+		@include media-breakpoint-up(md) {
+			font-size: 3.6rem;
+		}
 	}
 }
 
@@ -70,9 +97,99 @@ p {
 		margin: 30px auto;
 		border-color: $black;
 	}
+
+	&--clear {
+		border: none;
+		margin: 60px auto;
+	}
 }
 
-.image-wrapper {
+.image {
 	position: relative;
-	overflow: hidden;
+	margin-bottom: 60px;
+
+	&__container {
+		position: relative;
+		overflow: hidden;
+		z-index: 1;
+
+		&:hover {
+			img {
+				-webkit-transform: scale(1.2);
+  				transform: scale(1.2);
+			}
+		}
+	}
+
+	&--380x500 {
+		width: 380px;
+		height: 500px;
+		
+	}
+
+	&--400x400 {
+		width: 400px;
+		height: 400px;
+		
+	}
+
+	&--500x500 {
+		width: 500px;
+		height: 500px;
+	}
+
+	&--500x600 {
+		width: 500px;
+		height: 600px;
+	}
+
+	&--800x500 {
+		width: 800px;
+		height: 500px;
+	}
+
+	&--1140x500 {
+		width: 1140px;
+		height: 500px;
+		
+	}
+
+	&__wrapper {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	&__overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		margin: auto;
+		width: 80%;
+	}
+
+	&__details {
+		text-align: center;
+
+		div {
+			width: 100%;
+			z-index: 2;
+		}
+
+		h2 {
+			font-size: 2.2rem;
+
+			@include media-breakpoint-up(md) {
+				font-size: 3.6rem;
+			}
+		}
+	}
+
+	img {
+		margin: auto;
+		-webkit-transition: 0.6s ease;
+  		transition: 0.6s ease;
+	}
 }
+

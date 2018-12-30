@@ -12,21 +12,290 @@
                     <p>We can’t wait for you to join us on</p>
                     <h2 class="header__date">March 30, 2019</h2>
                     <hr class="hr--divider">
-                    <p>Playa Studios, Culver City<br/>
+                    <p><a href="https://goo.gl/maps/JjEnS9Y1zxE2">Playa Studios, Culver City</a><br/>
                         4pm - 11pm
                     </p>
                 </div>
             </div>
         </div>
-        <div class="container">
+
+        <div id="rsvp" class="container home-section">
             <div class="section-header row justify-content-center">
                 <h6>RSVP</h6>
             </div>
-            <div class="row justify-content-center">
-                <div class="image-wrapper">
-                    <img src="http://placehold.it/550x620">
+            <div class="image row justify-content-center">
+                <div class="image__container image--500x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/500x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--500x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>First things first, please RSVP</h2>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+        <div id="our-story" class="container home-section">
+            <div class="section-header row justify-content-center">
+                <h6>Our Story</h6>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--1140x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/1140x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--1140x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>We met on September 9, 2013</h2>
+                            <p>where we both worked at Tradesy.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-left">
+                <div class="image__container image--400x400">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/400x400">
+                    </div>
+                </div>
+                <div class="image__overlay image--400x400">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>Brian was an engineer</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-end">
+                <div class="image__container image--400x400">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/400x400">
+                    </div>
+                </div>
+                <div class="image__overlay image--400x400">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>Julia was a designer</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--800x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/800x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--800x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>We soon became good friends</h2>
+                            <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack conversations.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--500x600">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/500x600">
+                    </div>
+                </div>
+                <div class="image__overlay image--500x600">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>And started dating October 2014</h2>
+                            <p>after Julia made the first move on Brian at a Tradesy Happy Hour. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="col-md-4 image__container image--380x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/380x500">
+                    </div>
+                </div>
+                <div class="col-md-4 image__container image--380x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/380x500">
+                    </div>
+                </div>
+                <div class="col-md-4 image__container image--380x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/380x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--1140x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>We dated almost 4 years</h2>
+                            <p>travelling, eating, exploring, and growing together.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--500x600">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/500x600">
+                    </div>
+                </div>
+                <div class="image__overlay image--500x600">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>Until Brian finally popped the question on April 23, 2018</h2>
+                            <p>and of course Julia said Yes!</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <div id="wedding-party" class="container home-section">
+            <div class="section-header row justify-content-center">
+                <h6>Wedding Party</h6>
+            </div>
+            <div class="row justify-content-center">
+                <h2>Bridesmaids</h2>
+            </div>
+            <hr class="hr--divider">
+            <div class="card-columns">
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title that wraps to a new line</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title that wraps to a new line</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="hr--clear">
+
+            <div class="row justify-content-center">
+                <h2>Groomsmen</h2>
+            </div>
+            <hr class="hr--divider">
+            <div class="card-columns">
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Connie Chun</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Christine Kim</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title that wraps to a new line</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="accommodations" class="container home-section">
+            <div class="section-header row justify-content-center">
+                <h6>Accommodations</h6>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--500x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/500x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--500x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>Read up on our travel accommodations</h2>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
     </body>
 </html>

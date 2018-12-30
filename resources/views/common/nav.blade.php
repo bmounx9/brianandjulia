@@ -6,14 +6,20 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/rsvp">RSVP</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#our-story">Our Story</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#wedding-party">Wedding Party</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/accommodation">Accommodations</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/rsvp">RSVP</a>
+                    <a class="nav-link" href="#registry">Registry</a>
                 </li>
             </ul>
         </div>
