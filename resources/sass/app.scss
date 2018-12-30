@@ -25,6 +25,11 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
+html {
+	  scroll-behavior: smooth;
+}
+
+
 h1, h2, h3 {
 	font-family: $font-family-display;
 }
@@ -151,14 +156,20 @@ a {
 		overflow: hidden;
 		z-index: 1;
 
-		@include media-breakpoint-down(md) {
+		@include media-breakpoint-down(sm) {
 			height: 300px;
 		}
 
 		&:hover {
+
+			.image__wrapper {
+				background-color: $white;
+				opacity: .6;
+			}
+
 			img {
-				-webkit-transform: scale(1.2);
-  				transform: scale(1.2);
+				-webkit-transform: scale(1.1);
+  				transform: scale(1.1);
 			}
 		}
 	}
@@ -177,44 +188,43 @@ a {
 		margin: auto;
 		width: 100%;
 
-		@include media-breakpoint-down(md) {
-			height: 300px;
+		@include media-breakpoint-down(sm) {
+			position: relative;
+			height: auto;
 		}
 	}
 
 	&__details {
 		position: relative;
 		text-align: center;
-		z-index: 3;
-
-		&:hover {
-			background-color: $white;
-			opacity: .7;
-
-			.text-white {
-				h2, p {
-					color: $black;
-				}
-			}
-		}
 
 		div {
 			width: 100%;
 			z-index: 2;
+			padding: 20px;
 		}
 
 		h2 {
-			font-size: 2.2rem;
-			z-index: 4;
+			font-size: 1.7rem;
+			z-index: 3;
 
 			@include media-breakpoint-up(md) {
 				font-size: 3.6rem;
 			}
 		}
 
+		h2, p {
+			color: $black;
+			text-shadow: .5px .5px $white;
+		}
+
 		.text-white {
-			h2, p {
-				color: $white;
+
+			@include media-breakpoint-up(md) {
+				h2, p {
+					color: $white;
+					text-shadow: .5px .5px $black;
+				}
 			}
 		}
 	}

@@ -36,7 +36,6 @@
                         </div>
                     </div>
                 </div>
-                
             </div>
         </div>
 
@@ -95,7 +94,7 @@
                 </div>
                 <div class="image__overlay image--800x500">
                     <div class="image__details row align-items-center">
-                        <div class="text-white">
+                        <div>
                             <h2>We soon became good friends</h2>
                             <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack conversations.</p>
                         </div>
