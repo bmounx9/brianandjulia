@@ -13,7 +13,7 @@
                     <a class="nav-link" href="/accommodation">Accommodations</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">RSVP</a>
+                    <a class="nav-link" href="/rsvp">RSVP</a>
                 </li>
             </ul>
         </div>
