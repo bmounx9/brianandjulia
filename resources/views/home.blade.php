@@ -26,7 +26,7 @@
             <div class="image row justify-content-center">
                 <div class="image__container image--500x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/500x500">
+                        <img src="/images/rsvp.JPG">
                     </div>
                 </div>
                 <div class="image__overlay image--500x500">
@@ -45,14 +45,14 @@
                 <h6>Our Story</h6>
             </div>
             <div class="image row justify-content-center">
-                <div class="image__container image--1140x500">
+                <div class="image__container image--800x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/1140x500">
+                        <img src="/images/tradesy-group.JPG">
                     </div>
                 </div>
-                <div class="image__overlay image--1140x500">
+                <div class="image__overlay image--800x500">
                     <div class="image__details row align-items-center">
-                        <div>
+                        <div class="text-white">
                             <h2>We met on September 9, 2013</h2>
                             <p>where we both worked at Tradesy.</p>
                         </div>
@@ -62,7 +62,7 @@
             <div class="image row justify-content-left">
                 <div class="image__container image--400x400">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/400x400">
+                        <img src="/images/brian.JPG">
                     </div>
                 </div>
                 <div class="image__overlay image--400x400">
@@ -76,7 +76,7 @@
             <div class="image row justify-content-end">
                 <div class="image__container image--400x400">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/400x400">
+                        <img src="/images/julia.jpg">
                     </div>
                 </div>
                 <div class="image__overlay image--400x400">
@@ -90,12 +90,12 @@
             <div class="image row justify-content-center">
                 <div class="image__container image--800x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/800x500">
+                        <img src="/images/tradesy2.JPG">
                     </div>
                 </div>
                 <div class="image__overlay image--800x500">
                     <div class="image__details row align-items-center">
-                        <div>
+                        <div class="text-white">
                             <h2>We soon became good friends</h2>
                             <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack conversations.</p>
                         </div>
@@ -105,7 +105,7 @@
             <div class="image row justify-content-center">
                 <div class="image__container image--500x600">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/500x600">
+                        <img src="/images/disneyland.JPG">
                     </div>
                 </div>
                 <div class="image__overlay image--500x600">
@@ -120,22 +120,22 @@
             <div class="image row justify-content-center">
                 <div class="col-md-4 image__container image--380x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/380x500">
+                        <img src="/images/barcelona.JPG">
                     </div>
                 </div>
                 <div class="col-md-4 image__container image--380x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/380x500">
+                        <img src="/images/cal-game.JPG">
                     </div>
                 </div>
                 <div class="col-md-4 image__container image--380x500">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/380x500">
+                        <img src="/images/beer-fest.JPG">
                     </div>
                 </div>
                 <div class="image__overlay image--1140x500">
                     <div class="image__details row align-items-center">
-                        <div>
+                        <div class="text-white">
                             <h2>We dated almost 4 years</h2>
                             <p>travelling, eating, exploring, and growing together.</p>
                         </div>
@@ -143,15 +143,16 @@
                 </div>
             </div>
             <div class="image row justify-content-center">
-                <div class="image__container image--500x600">
+                <div class="image__container image--600x600">
                     <div class="image__wrapper">
-                        <img src="http://placehold.it/500x600">
+                        <img src="/images/engagement-dark.JPG">
                     </div>
                 </div>
-                <div class="image__overlay image--500x600">
+                <div class="image__overlay image--600x600">
                     <div class="image__details row align-items-center">
-                        <div>
-                            <h2>Until Brian finally popped the question on April 23, 2018</h2>
+                        <div class="text-white">
+                            <h2>Until Brian finally 
+                                <br/>popped the question <br/>on April 23, 2018</h2>
                             <p>and of course Julia said Yes!</p>
                         </div>
                     </div>
@@ -171,49 +172,49 @@
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title that wraps to a new line</h5>
-                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Connie Chun</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Maid of Honor</h6>
+                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Christine Kim</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Matron of Honor</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Gloria Kim</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title that wraps to a new line</h5>
-                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Joyce Cho</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Esther Kang</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Stella Choi</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
             </div>
@@ -228,49 +229,49 @@
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Connie Chun</h5>
-                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Christine Kim</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title that wraps to a new line</h5>
-                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src=".../100px160/" alt="Card image cap">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Nicolas Walder</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                 </div>
             </div>
@@ -289,11 +290,30 @@
                 <div class="image__overlay image--500x500">
                     <div class="image__details row align-items-center">
                         <div>
-                            <h2>Read up on our travel accommodations</h2>
+                            <h2>Our travel recommendations</h2>
                         </div>
                     </div>
                 </div>
-                
+            </div>
+        </div>
+
+        <div id="registry" class="container home-section">
+            <div class="section-header row justify-content-center">
+                <h6>Registry</h6>
+            </div>
+            <div class="image row justify-content-center">
+                <div class="image__container image--500x500">
+                    <div class="image__wrapper">
+                        <img src="http://placehold.it/500x500">
+                    </div>
+                </div>
+                <div class="image__overlay image--500x500">
+                    <div class="image__details row align-items-center">
+                        <div>
+                            <h2>Our registry</h2>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
