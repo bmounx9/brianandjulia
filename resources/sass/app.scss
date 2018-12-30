@@ -46,7 +46,19 @@ p {
 	height: 80vh;
 	text-align: center;
 
+	> div {
+		height: 80%;
+	}
+
 	&__date {
 		font-size: 64px;
+	}
+}
+
+.hr {
+	&--divider {
+		width: 50px;
+		margin: 30px auto;
+		border-color: $black;
 	}
 }

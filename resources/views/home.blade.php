@@ -35,7 +35,7 @@
             <div class="col-lg-6 offset-lg-3">
                 <p>We can’t wait for you to join us on</p>
                 <h2 class="header__date">March 30, 2019</h2>
-                <hr>
+                <hr class="hr--divider">
                 <p>Playa Studios, Culver City<br/>
                     4pm - 11pm
                 </p>
