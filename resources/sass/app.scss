@@ -43,15 +43,24 @@ p {
 }
 
 .header {
-	height: 80vh;
+	height: 70vh;
 	text-align: center;
 
 	> div {
-		height: 80%;
+		height: 100%;
 	}
 
 	&__date {
 		font-size: 64px;
+	}
+}
+
+.section-header {
+	margin-bottom: 30px;
+
+	h6 {
+		text-transform: uppercase;
+		letter-spacing: 2px;
 	}
 }
 
@@ -61,4 +70,9 @@ p {
 		margin: 30px auto;
 		border-color: $black;
 	}
+}
+
+.image-wrapper {
+	position: relative;
+	overflow: hidden;
 }
