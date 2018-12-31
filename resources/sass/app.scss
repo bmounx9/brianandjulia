@@ -39,15 +39,12 @@ p {
 	letter-spacing: 1px;
 }
 
-a {
-	color: $slate-blue;
-
-	&:hover {
-		color: $slate-blue;
-	}
+.form-row > .col, 
+.form-row > [class*=col-] {
+	margin-bottom: 10px;
 }
 
-.home-section {
+.section {
 	margin-bottom: 60px;
 
 	@include media-breakpoint-up(md) {
@@ -78,7 +75,7 @@ a {
 	height: 500px;
 	text-align: center;
 
-	&__date {
+	&__title {
 		font-size: 2.2rem;
 
 		@include media-breakpoint-up(md) {
@@ -89,6 +86,7 @@ a {
 
 .section-header {
 	margin-bottom: 30px;
+	text-align: center;
 
 	h6 {
 		text-transform: uppercase;
@@ -238,3 +236,8 @@ a {
 	}
 }
 
+
+// Page
+.page-header {
+	margin-top: 60px;
+}

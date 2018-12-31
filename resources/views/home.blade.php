@@ -10,7 +10,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 offset-lg-3">
                     <p>We can’t wait for you to join us on</p>
-                    <h2 class="header__date">March 30, 2019</h2>
+                    <h2 class="header__title">March 30, 2019</h2>
                     <hr class="hr--divider">
                     <p><a href="https://goo.gl/maps/JjEnS9Y1zxE2">Playa Studios, Culver City</a><br/>
                         4pm - 11pm
@@ -19,11 +19,11 @@
             </div>
         </div>
 
-        <div id="rsvp" class="container home-section">
+        <div class="container section">
             <div class="section-header row justify-content-center">
                 <h6>RSVP</h6>
             </div>
-            <div class="image row justify-content-center">
+            <a href="/rsvp" class="image row justify-content-center">
                 <div class="image__container image--500x500">
                     <div class="image__wrapper">
                         <img src="/images/rsvp.JPG">
@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </a>
         </div>
 
         <div id="our-story" class="container home-section">
@@ -169,39 +169,39 @@
             <hr class="hr--divider">
             <div class="card-columns">
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/connie.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Connie Chun</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Maid of Honor</h6>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">My high school friend,  roommate, and third sister. We bonded through McDonald's ice cream and patbingsoo after summer classes at El Camino. She's my confidante and voice of reason.</p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/christine.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Christine Kim</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Matron of Honor</h6>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                        <p class="card-text">My older sister who has been through it all with me. She is the nicest person I know with so much generosity.</p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/gloria.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Gloria Kim</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                        <p class="card-text">My baby sister who is a grown up in college now! Our favorite thing to do is to pig out and make fun of our older sister.</p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/joyce.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Joyce Cho</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This card has supporting text below as a natural lead-in to additional content.</p>
+                        <p class="card-text">My first roommate at Cal and forever roommate in my heart. My favorite memories were of us running to Rhinos before it closed and walking really fast to make it to class. She has a contagious laugh and a love for life.</p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/esther.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Esther Kang</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
@@ -209,7 +209,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="/images/stella.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Stella Choi</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
