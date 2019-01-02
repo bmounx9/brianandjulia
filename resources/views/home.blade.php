@@ -19,7 +19,7 @@
             </div>
         </div>
 
-        <div class="container section">
+        <div class="container home-section">
             <div class="section-header row justify-content-center">
                 <h6>RSVP</h6>
             </div>
