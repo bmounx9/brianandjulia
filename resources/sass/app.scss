@@ -111,41 +111,24 @@ p {
 	position: relative;
 	margin-bottom: 60px;
 
-	&--380x500 {
-		width: 380px;
-		height: 500px;
-		
-	}
-
-	&--400x400 {
-		width: 400px;
-		height: 400px;
-		
+	&--370x370 {
+		width: 370px;
+		max-height: 370px;
 	}
 
 	&--500x500 {
-		width: 500px;
-		height: 500px;
+		width: 100%;
+		max-height: 500px;
 	}
-
-	&--500x600 {
-		width: 500px;
-		height: 600px;
-	}
-
-	&--600x600 {
-		width: 600px;
-		height: 600px;
-	}
-
+	
 	&--800x500 {
 		width: 800px;
-		height: 500px;
+		max-height: 500px;
 	}
 
-	&--1140x500 {
-		width: 1140px;
-		height: 500px;
+	&--1120x600 {
+		width: 1120px;
+		max-height: 600px;
 		
 	}
 
@@ -154,9 +137,9 @@ p {
 		overflow: hidden;
 		z-index: 1;
 
-		@include media-breakpoint-down(sm) {
-			height: 300px;
-		}
+		// @include media-breakpoint-down(sm) {
+		// 	height: 300px;
+		// }
 
 		&:hover {
 
@@ -173,27 +156,29 @@ p {
 	}
 
 	&__wrapper {
-		position: absolute;
+		// position: absolute;
 		top: 0;
 		left: 0;
 	}
 
-	&__overlay {
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		margin: auto;
-		width: 100%;
+	// &__overlay {
+	// 	position: absolute;
+	// 	top: 0;
+	// 	left: 0;
+	// 	right: 0;
+	// 	margin: auto;
+	// 	width: 100%;
 
-		@include media-breakpoint-down(sm) {
-			position: relative;
-			height: auto;
-		}
-	}
+	// 	@include media-breakpoint-down(sm) {
+	// 		position: relative;
+	// 		height: auto;
+	// 	}
+	// }
 
 	&__details {
+		display: block;
 		position: relative;
+		width: 100%;
 		text-align: center;
 
 		div {
@@ -202,29 +187,19 @@ p {
 			padding: 20px;
 		}
 
-		h2 {
+		h3 {
 			font-size: 1.7rem;
 			z-index: 3;
 
 			@include media-breakpoint-up(md) {
-				font-size: 3.6rem;
+				font-size: 2.4rem;
 			}
 		}
 
-		h2, p {
+		h3, p {
 			color: $black;
-			text-shadow: .5px .5px $white;
 		}
 
-		.text-white {
-
-			@include media-breakpoint-up(md) {
-				h2, p {
-					color: $white;
-					text-shadow: .5px .5px $black;
-				}
-			}
-		}
 	}
 
 	img {

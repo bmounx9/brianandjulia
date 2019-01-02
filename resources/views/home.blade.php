@@ -22,137 +22,147 @@
     <div class="section-header row justify-content-center">
         <h6>RSVP</h6>
     </div>
-    <a href="/rsvp" class="image row justify-content-center">
-        <div class="image__container image--500x500">
-            <div class="image__wrapper">
-                <img src="/images/rsvp.JPG">
+    <div class="image row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/julia-brian.jpg">
+                </div>
             </div>
-        </div>
-        <div class="image__overlay image--500x500">
-            <div class="image__details row align-items-center">
+            <div class="image__details row">
                 <div>
-                    <h2>First things first, please RSVP</h2>
+                    <h3>First things first, please RSVP</h3>
+                    <a href="/rsvp" class="btn btn-primary">RSVP</a>
                 </div>
             </div>
         </div>
-    </a>
+    </div>
 </div>
 <div id="our-story" class="container home-section">
     <div class="section-header row justify-content-center">
         <h6>Our Story</h6>
     </div>
     <div class="image row justify-content-center">
-        <div class="image__container image--800x500">
+        <div class="image__container image--1120x600">
             <div class="image__wrapper">
-                <img src="/images/tradesy-group.JPG">
+                <img src="/images/tradesy-group.jpg">
             </div>
         </div>
-        <div class="image__overlay image--800x500">
-            <div class="image__details row align-items-center">
-                <div class="text-white">
-                    <h2>We met on September 9, 2013</h2>
-                    <p>where we both worked at Tradesy.</p>
-                </div>
+        <div class="image__details row">
+            <div>
+                <h3>We met on September 9, 2013</h3>
+                <p>where we both worked at Tradesy.</p>
             </div>
         </div>
     </div>
-    <div class="image row justify-content-left">
-        <div class="image__container image--400x400">
-            <div class="image__wrapper">
-                <img src="/images/brian.JPG">
+    <div class="image row">
+        <div class="col-md-6 justify-content-left">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/brian.jpg">
+                </div>
             </div>
-        </div>
-        <div class="image__overlay image--400x400">
-            <div class="image__details row align-items-center">
+            <div class="image__details row">
                 <div>
-                    <h2>Brian was an engineer</h2>
+                    <h3>Brian was an engineer</h3>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="image row justify-content-end">
-        <div class="image__container image--400x400">
-            <div class="image__wrapper">
-                <img src="/images/julia.jpg">
+        <div class="col-md-6 justify-content-end">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/julia.jpg">
+                </div>
             </div>
-        </div>
-        <div class="image__overlay image--400x400">
-            <div class="image__details row align-items-center">
+            <div class="image__details row">
                 <div>
-                    <h2>Julia was a designer</h2>
+                    <h3>Julia was a designer</h3>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="image row justify-content-center">
-        <div class="image__container image--800x500">
-            <div class="image__wrapper">
-                <img src="/images/tradesy2.JPG">
-            </div>
-        </div>
-        <div class="image__overlay image--800x500">
-            <div class="image__details row align-items-center">
-                <div>
-                    <h2>We soon became good friends</h2>
-                    <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack
-                        conversations.</p>
+    </div> 
+    <div class="image row">
+        <div class="col-md-6">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/tradesy-friends.jpg">
                 </div>
             </div>
         </div>
-    </div>
-    <div class="image row justify-content-center">
-        <div class="image__container image--500x600">
-            <div class="image__wrapper">
-                <img src="/images/disneyland.JPG">
+        
+        <div class="image__details col-md-6">
+            <div>
+                <h3>We soon became good friends</h3>
+                <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack
+                    conversations.</p>
             </div>
         </div>
-        <div class="image__overlay image--500x600">
-            <div class="image__details row align-items-center">
-                <div>
-                    <h2>And started dating October 2014</h2>
-                    <p>after Julia made the first move on Brian at a Tradesy Happy Hour. </p>
+    </div>
+    <div class="image row flex-row-reverse">
+        <div class="col-md-6">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/dating.jpg">
                 </div>
             </div>
         </div>
-    </div>
-    <div class="image row justify-content-center">
-        <div class="col-md-4 image__container image--380x500">
-            <div class="image__wrapper">
-                <img src="/images/barcelona.JPG">
-            </div>
-        </div>
-        <div class="col-md-4 image__container image--380x500">
-            <div class="image__wrapper">
-                <img src="/images/cal-game.JPG">
-            </div>
-        </div>
-        <div class="col-md-4 image__container image--380x500">
-            <div class="image__wrapper">
-                <img src="/images/beer-fest.JPG">
-            </div>
-        </div>
-        <div class="image__overlay image--1140x500">
-            <div class="image__details row align-items-center">
-                <div class="text-white">
-                    <h2>We dated almost 4 years</h2>
-                    <p>travelling, eating, exploring, and growing together.</p>
-                </div>
+        <div class="image__details col-md-6">
+            <div>
+                <h3>And started dating October 2014</h3>
+                <p>after Julia made the first move on Brian at a Tradesy Happy Hour. </p>
             </div>
         </div>
     </div>
-    <div class="image row justify-content-center">
+    <div class="row image__details">
+        <div>
+            <h3>We dated almost 4 years</h3>
+            <p>travelling, eating, exploring, and growing together.</p>
+        </div>
+    </div>
+    <div class="image row">
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/eiffel.jpg">
+            </div>
+        </div>
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/london.jpg">
+            </div>
+        </div>
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/honolulu.jpg">
+            </div>
+        </div>
+    </div>
+    <div class="image row">
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/berkeley.jpg">
+            </div>
+        </div>
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/sagrada.jpg">
+            </div>
+        </div>
+        <div class="col-md-4 image__container image--370x370">
+            <div class="image__wrapper">
+                <img src="/images/disneyland.jpg">
+            </div>
+        </div>
+    </div>
+    <div class="image row">
+        <div class="image__details row align-items-center">
+            <div>
+                <h3>Until Brian finally popped the question on April 23, 2018</h3>
+                <p>and of course Julia said Yes!</p>
+            </div>
+        </div>
         <div class="image__container image--600x600">
             <div class="image__wrapper">
                 <img src="/images/engagement-dark.JPG">
-            </div>
-        </div>
-        <div class="image__overlay image--600x600">
-            <div class="image__details row align-items-center">
-                <div class="text-white">
-                    <h2>Until Brian finally
-                        <br/>popped the question <br/>on April 23, 2018</h2>
-                    <p>and of course Julia said Yes!</p>
-                </div>
             </div>
         </div>
     </div>
