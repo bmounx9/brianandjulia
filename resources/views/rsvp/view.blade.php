@@ -53,6 +53,7 @@
                         <input type="text" name="song_request" class="form-control" placeholder="Song Requests" value="<?= $rsvp->song_request; ?>">
                     </div>
                 </div>
+                <?php if (!empty($rsvp->group_members)): ?>
                 <?php foreach ($rsvp->group_members as $member): ?>
                 <div class="form-row">
                     <div class="col-md-5">
@@ -62,6 +63,7 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
+                <?php endif; ?>
                 <div class="form-row">
                     <div class="col-md-2">
                         <button type="submit" class="btn btn-primary btn-block">Submit</button>
