@@ -113,14 +113,16 @@ class RsvpController extends Controller
 
         // update group rsvp
         $group_affected = 0;
-        foreach ($attendings as $id => $attending) {
-            if ($id == $rsvp->id) {
-                continue;
+        if (!empty($attendings)) {
+            foreach ($attendings as $id => $attending) {
+                if ($id == $rsvp->id) {
+                    continue;
+                }
+                $group_affected = DB::update(
+                    'UPDATE rsvp SET attending = :attending, updated_at = NOW() WHERE id = :id',
+                    ['attending' => $attending, 'id' => $id]
+                );
             }
-            $group_affected = DB::update(
-                'UPDATE rsvp SET attending = :attending, updated_at = NOW() WHERE id = :id',
-                ['attending' => $attending, 'id' => $id]
-            );
         }
 
         return $affected > 0 || $group_affected > 0;
