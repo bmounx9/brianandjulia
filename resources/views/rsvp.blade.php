@@ -19,7 +19,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 offset-lg-3">
                     <p>Enter your first and last name to RSVP</p>
-                    <form>
+                    <form method="POST" action="/rsvp">
+                        @csrf
                         <div class="form-row">
                             <div class="col-md-5">
                                 <input type="text" class="form-control" placeholder="First name">
@@ -31,11 +32,10 @@
                                 <button type="submit" class="btn btn-primary btn-block">Submit</button>
                             </div>
                         </div>
-                        
                     </form>
                 </div>
             </div>
-            
+
         </div>
     </body>
 </html>

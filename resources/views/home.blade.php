@@ -150,7 +150,7 @@
                 <div class="image__overlay image--600x600">
                     <div class="image__details row align-items-center">
                         <div class="text-white">
-                            <h2>Until Brian finally 
+                            <h2>Until Brian finally
                                 <br/>popped the question <br/>on April 23, 2018</h2>
                             <p>and of course Julia said Yes!</p>
                         </div>
@@ -226,7 +226,7 @@
             <hr class="hr--divider">
             <div class="card-columns">
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
@@ -234,7 +234,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
@@ -242,7 +242,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
@@ -250,7 +250,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
@@ -258,7 +258,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
@@ -266,7 +266,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src=".../100px160/" alt="Card image cap">
+                    <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Nicolas Walder</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>

@@ -19,6 +19,7 @@ Route::get('/accommodation', function () {
     return view('accommodation');
 });
 
-Route::get('/rsvp', function () {
-    return view('rsvp');
-});
+// RSVP actions
+Route::get('/rsvp', 'Rsvp\RsvpController@login');
+Route::post('/rsvp', 'Rsvp\RsvpController@login');
+Route::post('/view-rsvp', 'Rsvp\RsvpController@login');
