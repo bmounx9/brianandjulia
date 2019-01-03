@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <div class="form-row">
-                    <div class="col-md-5">
+                    <div class="col-md-12">
                         <div>Will you be attending?</div>
                         <input type="radio" name="attending[<?= $rsvp->id; ?>]" value="1" <?= !is_null($rsvp->attending) && $rsvp->attending ? 'checked="checked"' : ''?>> Yes
                         <input type="radio" name="attending[<?= $rsvp->id; ?>]" value="0" <?= !is_null($rsvp->attending) && !$rsvp->attending? 'checked="checked"' : ''?>> No
@@ -43,14 +43,14 @@
                 </div>
                 <?php if($rsvp->has_children): ?>
                 <div class="form-row">
-                    <div class="col-md-5">
+                    <div class="col-md-12">
                         <div>Please enter name(s) of any children that will be attending.</div>
                         <input type="text" name="children" class="form-control" placeholder="Name(s)" value="<?= $rsvp->children; ?>">
                     </div>
                 </div>
                 <?php endif; ?>
                 <div class="form-row">
-                    <div class="col-md-5">
+                    <div class="col-md-12">
                         <div>Please enter any song requests.</div>
                         <input type="text" name="song_request" class="form-control" placeholder="Song Requests" value="<?= $rsvp->song_request; ?>">
                     </div>
@@ -58,7 +58,7 @@
                 <?php if (!empty($rsvp->group_members)): ?>
                 <?php foreach ($rsvp->group_members as $member): ?>
                 <div class="form-row">
-                    <div class="col-md-5">
+                    <div class="col-md-812">
                         <div>Will <?= $member->first_name . ' ' . $member->last_name; ?> be attending?</div>
                         <input type="radio" name="attending[<?= $member->id; ?>]" value="1" <?= !is_null($member->attending) && $member->attending ? 'checked="checked"' : ''?>> Yes
                         <input type="radio" name="attending[<?= $member->id; ?>]" value="0" <?= !is_null($member->attending) && !$member->attending? 'checked="checked"' : ''?>> No

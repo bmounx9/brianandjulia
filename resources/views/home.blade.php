@@ -232,9 +232,7 @@
             </div>
         </div>
     </div>
-
     <hr class="hr--clear">
-
     <div class="row justify-content-center">
         <h2>Groomsmen</h2>
     </div>
