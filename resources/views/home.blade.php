@@ -16,7 +16,7 @@
                 4pm - 11pm
             </p>
         </div>
-        
+
     </div>
 </div>
 <div id="rsvp" class="container home-section">
@@ -258,12 +258,13 @@
     <hr class="hr--divider">
     <div class="card-columns">
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/nicolas.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Nicolas Walder</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met as roomates during freshman year at Cal and became instant friends, which
+                    lead to us continuing to be roomates after college. Countless bottles of bourbon, cowboy hats, and
+                    chicken nuggets later, our friendship is still going strong.</p>
             </div>
         </div>
         <div class="card">
@@ -271,17 +272,19 @@
             <div class="card-body">
                 <h5 class="card-title">Ahrash Rastegar</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met through Nic during college and bonded over watching Nic being ridiculous.
+                    Our friendship continues to grow over soccer, terrible memes, and watching Nic eat more than any
+                    human should.</p>
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/eric.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Eric Taylor</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met during the early years of Tradesy and it took time before he wasn't afraid
+                    to talk to the scary asian kid. Since then we've been great friends. Fantasy football and poker
+                    sometimes gets in the way, but cool ranch doritos always bring us back.</p>
             </div>
         </div>
         <div class="card">
@@ -289,8 +292,9 @@
             <div class="card-body">
                 <h5 class="card-title">Robert Toledo</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met during the first few months of Tradesy. His excessive use of buzzwords and
+                    memes were annoying at first, but gave way to a back and forth of trolling that keeps us going
+                    today. Also props to always wanting to host board game nights.</p>
             </div>
         </div>
         <div class="card">
@@ -298,8 +302,9 @@
             <div class="card-body">
                 <h5 class="card-title">Mike Hemelberg</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met at Tradesy when he was hired as my manager. With a name like Hemelberg I was
+                    expecting an aggressive German dog, but he turned out to be a cool Columbian cat. We spend our time
+                    playing ping pong and discussing if playing "Final Countdown" is appropriate.</p>
             </div>
         </div>
         <div class="card">
@@ -307,8 +312,9 @@
             <div class="card-body">
                 <h5 class="card-title">Gustavo Blanco</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">We met through Tradesy on the engineering team. Nothing bonds people faster than
+                    catered lunches and famous amos cookies. Through our daily discussions about everything life throws
+                    at us, we continue to be friends while building the hottest fashion platform in the west. </p>
             </div>
         </div>
     </div>
@@ -352,13 +358,14 @@
         <h6>Questions?</h6>
     </div>
     <div class="row justify-content-center">
-        <p>For any other questions, please email us at <a href="mailto:hoolsandbrian@gmail.com">hoolsandbrian@gmail.com</a></p>
+        <p>For any other questions, please email us at <a
+                href="mailto:hoolsandbrian@gmail.com">hoolsandbrian@gmail.com</a></p>
     </div>
 </div>
 <footer class="container">
     <div class="row justify-content-center">
         <div>
-            <small>#hoolsandbrian</small>    
+            <small>#hoolsandbrian</small>
         </div>
     </div>
 </footer>
