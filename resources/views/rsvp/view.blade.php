@@ -41,12 +41,14 @@
                         <input type="radio" name="attending[<?= $rsvp->id; ?>]" value="0" <?= !is_null($rsvp->attending) && !$rsvp->attending? 'checked="checked"' : ''?>> No
                     </div>
                 </div>
+                <?php if($rsvp->has_children): ?>
                 <div class="form-row">
                     <div class="col-md-5">
                         <div>Please enter name(s) of any children that will be attending.</div>
                         <input type="text" name="children" class="form-control" placeholder="Name(s)" value="<?= $rsvp->children; ?>">
                     </div>
                 </div>
+                <?php endif; ?>
                 <div class="form-row">
                     <div class="col-md-5">
                         <div>Please enter any song requests.</div>

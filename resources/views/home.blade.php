@@ -250,7 +250,7 @@
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/ahrash.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Ahrash Rastegar</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
@@ -268,7 +268,7 @@
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/robert.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Robert Toledo</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
@@ -277,7 +277,7 @@
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/mike.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Mike Hemelberg</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
