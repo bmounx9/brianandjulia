@@ -6,9 +6,9 @@
 </head>
 <body>
 @include('common.nav')
-<div class="header container">
+<div class="header container justify-content-center">
     <div class="row align-items-center">
-        <div class="col-lg-6 offset-lg-3">
+        <div>
             <p>We can’t wait for you to join us on</p>
             <h2 class="header__title">March 30, 2019</h2>
             <hr class="hr--divider">
@@ -16,9 +16,10 @@
                 4pm - 11pm
             </p>
         </div>
+        
     </div>
 </div>
-<div class="container home-section">
+<div id="rsvp" class="container home-section">
     <div class="section-header row justify-content-center">
         <h6>RSVP</h6>
     </div>
@@ -29,7 +30,7 @@
                     <img src="/images/julia-brian.jpg">
                 </div>
             </div>
-            <div class="image__details row">
+            <div class="image__details  row">
                 <div>
                     <h3>First things first, please RSVP</h3>
                     <a href="/rsvp" class="btn btn-primary">RSVP</a>
@@ -90,7 +91,7 @@
             </div>
         </div>
 
-        <div class="image__details col-md-6">
+        <div class="image__details align-items-center col-md-6">
             <div>
                 <h3>We soon became good friends</h3>
                 <p>through our shared Spotify playlist, our morning trips to Coffee Bean, and endless Hipchat/Slack
@@ -106,7 +107,7 @@
                 </div>
             </div>
         </div>
-        <div class="image__details col-md-6">
+        <div class="image__details align-items-center col-md-6">
             <div>
                 <h3>And started dating October 2014</h3>
                 <p>after Julia made the first move on Brian at a Tradesy Happy Hour. </p>
