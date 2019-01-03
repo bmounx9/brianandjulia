@@ -29,6 +29,9 @@ html {
 	  scroll-behavior: smooth;
 }
 
+body {
+	letter-spacing: 1px;
+}
 
 h1, h2, h3 {
 	font-family: $font-family-display;
@@ -36,7 +39,10 @@ h1, h2, h3 {
 
 p {
 	font-size: 1.1rem;
-	letter-spacing: 1px;
+}
+
+small {
+	font-size: .9rem;
 }
 
 .btn {
@@ -47,6 +53,10 @@ p {
 .form-row > .col, 
 .form-row > [class*=col-] {
 	margin-bottom: 10px;
+}
+
+.container {
+	padding: 0 15px;
 }
 
 .home-section {
@@ -78,7 +88,7 @@ p {
 	text-align: center;
 
 	&__title {
-		font-size: 2.2rem;
+		font-size: 2.6rem;
 
 		@include media-breakpoint-up(md) {
 			font-size: 3.6rem;
@@ -139,16 +149,7 @@ p {
 		overflow: hidden;
 		z-index: 1;
 
-		// @include media-breakpoint-down(sm) {
-		// 	height: 300px;
-		// }
-
 		&:hover {
-
-			.image__wrapper {
-				background-color: $white;
-				opacity: .6;
-			}
 
 			img {
 				-webkit-transform: scale(1.1);
@@ -156,26 +157,6 @@ p {
 			}
 		}
 	}
-
-	&__wrapper {
-		// position: absolute;
-		top: 0;
-		left: 0;
-	}
-
-	// &__overlay {
-	// 	position: absolute;
-	// 	top: 0;
-	// 	left: 0;
-	// 	right: 0;
-	// 	margin: auto;
-	// 	width: 100%;
-
-	// 	@include media-breakpoint-down(sm) {
-	// 		position: relative;
-	// 		height: auto;
-	// 	}
-	// }
 
 	&__details {
 		display: flex;
@@ -194,7 +175,7 @@ p {
 			z-index: 3;
 
 			@include media-breakpoint-up(md) {
-				font-size: 2.4rem;
+				font-size: 2.2rem;
 			}
 		}
 
@@ -219,7 +200,17 @@ p {
 	}
 }
 
+#rsvp-view {
+	p {
+		margin-bottom: .5rem;
+	}
+}
+
 // Page
 .page-header {
 	margin-top: 60px;
+}
+
+.submit-button {
+	margin-top: 15px;
 }

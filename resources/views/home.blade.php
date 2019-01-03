@@ -12,7 +12,7 @@
             <p>We can’t wait for you to join us on</p>
             <h2 class="header__title">March 30, 2019</h2>
             <hr class="hr--divider">
-            <p><a href="https://goo.gl/maps/JjEnS9Y1zxE2">Playa Studios, Culver City</a><br/>
+            <p>Ceremony & Reception<br/><a href="https://goo.gl/maps/JjEnS9Y1zxE2">Playa Studios, Culver City</a><br/>
                 4pm - 11pm
             </p>
         </div>
@@ -44,15 +44,17 @@
         <h6>Our Story</h6>
     </div>
     <div class="image row justify-content-center">
-        <div class="image__container image--1120x600">
-            <div class="image__wrapper">
-                <img src="/images/tradesy-group.jpg">
+        <div class="col-md-6">
+            <div class="image__container image--500x500">
+                <div class="image__wrapper">
+                    <img src="/images/tradesy-group-2.jpg">
+                </div>
             </div>
-        </div>
-        <div class="image__details row">
-            <div>
-                <h3>We met on September 9, 2013</h3>
-                <p>where we both worked at Tradesy.</p>
+            <div class="image__details row">
+                <div>
+                    <h3>We met on September 9, 2013</h3>
+                    <p>where we both worked at Tradesy.</p>
+                </div>
             </div>
         </div>
     </div>
@@ -154,16 +156,32 @@
             </div>
         </div>
     </div>
-    <div class="image row">
-        <div class="image__details row align-items-center">
-            <div>
-                <h3>Until Brian finally popped the question on April 23, 2018</h3>
-                <p>and of course Julia said Yes!</p>
+    <div class="image row justify-content-center">
+        <div class="col-lg-8 text-center">
+            <div class="image__details">
+                <div>
+                    <h3>Until Brian finally popped the question on April 23, 2018</h3>
+                    <p>and of course Julia said Yes!</p>
+                </div>
             </div>
-        </div>
-        <div class="image__container image--600x600">
-            <div class="image__wrapper">
-                <img src="/images/engagement-dark.jpg">
+            <div class="image row">
+                <div class="col-md-6 image__container image--370x370">
+                    <div class="image__wrapper">
+                        <img src="/images/proposal-1.jpg">
+                    </div>
+                </div>
+                <div class="col-md-6 image__container image--370x370">
+                    <div class="image__wrapper">
+                        <img src="/images/proposal-2.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="image row">
+                <div class="col-md-12 image__container image--800x500">
+                    <div class="image__wrapper">
+                        <img src="/images/proposal-3.jpg">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -305,11 +323,9 @@
                 <img src="http://placehold.it/500x500">
             </div>
         </div>
-        <div class="image__overlay image--500x500">
-            <div class="image__details row align-items-center">
-                <div>
-                    <h2>Our travel recommendations</h2>
-                </div>
+        <div class="image__details row align-items-center">
+            <div>
+                <h3>Our travel recommendations</h3>
             </div>
         </div>
     </div>
@@ -324,14 +340,27 @@
                 <img src="http://placehold.it/500x500">
             </div>
         </div>
-        <div class="image__overlay image--500x500">
-            <div class="image__details row align-items-center">
-                <div>
-                    <h2>Our registry</h2>
-                </div>
+        <div class="image__details row align-items-center">
+            <div>
+                <h3>Our registry</h3>
             </div>
         </div>
     </div>
 </div>
+<div id="contact" class="container home-section">
+    <div class="section-header row justify-content-center">
+        <h6>Questions?</h6>
+    </div>
+    <div class="row justify-content-center">
+        <p>For any other questions, please email us at <a href="mailto:hoolsandbrian@gmail.com">hoolsandbrian@gmail.com</a></p>
+    </div>
+</div>
+<footer class="container">
+    <div class="row justify-content-center">
+        <div>
+            <small>#hoolsandbrian</small>    
+        </div>
+    </div>
+</footer>
 </body>
 </html>

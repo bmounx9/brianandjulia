@@ -18,14 +18,17 @@
 <div class="page-section container">
     <div class="row align-items-center">
         <div class="col-lg-6 offset-lg-3">
-            <?php if (!is_null($login) && !$login): ?>
-                <p>We could not find that reservation. Please try again.</p>
-            <?php endif; ?>
-            <p>Enter your first and last name to RSVP</p>
+            
             <form method="POST" action="/rsvp">
                 @csrf
                 <input type="hidden" name="login" value="1"/>
                 <div class="form-row">
+                    <div class="col-md-12">
+                        <p>Enter your first and last name to RSVP</p>
+                        <?php if (!is_null($login) && !$login): ?>
+                            <small class="text-danger">We could not find that reservation. Please try again.</small>
+                        <?php endif; ?>
+                    </div>
                     <div class="col-md-5">
                         <input type="text" name="first_name" class="form-control" placeholder="First name"/>
                     </div>
