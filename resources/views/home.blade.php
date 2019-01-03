@@ -80,7 +80,7 @@
                 </div>
             </div>
         </div>
-    </div> 
+    </div>
     <div class="image row">
         <div class="col-md-6">
             <div class="image__container image--500x500">
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="image__details col-md-6">
             <div>
                 <h3>We soon became good friends</h3>
@@ -162,7 +162,7 @@
         </div>
         <div class="image__container image--600x600">
             <div class="image__wrapper">
-                <img src="/images/engagement-dark.JPG">
+                <img src="/images/engagement-dark.jpg">
             </div>
         </div>
     </div>
@@ -252,7 +252,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h5 class="card-title">Ahrash Rastegar</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
@@ -261,7 +261,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h5 class="card-title">Eric Taylor</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
@@ -270,7 +270,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h5 class="card-title">Robert Toledo</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
@@ -279,7 +279,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h5 class="card-title">Mike Hemelberg</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
@@ -288,7 +288,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h5 class="card-title">Gustavo Blanco</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
