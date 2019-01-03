@@ -253,7 +253,7 @@
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Ahrash Rastegar</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
             </div>
@@ -262,7 +262,7 @@
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Eric Taylor</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
             </div>
@@ -271,7 +271,7 @@
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Robert Toledo</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
             </div>
@@ -280,7 +280,7 @@
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Mike Hemelberg</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
             </div>
@@ -289,7 +289,7 @@
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Gustavo Blanco</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
                     card has supporting text below as a natural lead-in to additional content.</p>
             </div>
