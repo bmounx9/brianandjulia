@@ -200,8 +200,7 @@
             <div class="card-body">
                 <h5 class="card-title">Connie Chun</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Maid of Honor</h6>
-                <p class="card-text">My high school friend, roommate, and third sister. We bonded through McDonald's ice
-                    cream and patbingsoo after summer classes at El Camino. She's my confidante and voice of reason.</p>
+                <p class="card-text">My high school friend, roommate, and third sister. We bonded our sophomore year when we carpooled to El Camino College for summer classes through lunch, patbingsoo, McDonald's ice cream, and tanning sessions at the beach. Though we split our ways in college, we couldn't stay apart and have been roommates in LA for almost 4 years most recently. She's my confidante and voice of reason.</p>
             </div>
         </div>
         <div class="card">
@@ -210,7 +209,7 @@
                 <h5 class="card-title">Christine Kim</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Matron of Honor</h6>
                 <p class="card-text">My older sister who has been through it all with me. She is the nicest person I
-                    know with so much generosity.</p>
+                    know with so much generosity and I love taking advantage of being the younger sister when I'm with her. My little sister and I both benefit from her endless generosity and treating us out.</p>
             </div>
         </div>
         <div class="card">
@@ -218,8 +217,7 @@
             <div class="card-body">
                 <h5 class="card-title">Gloria Kim</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
-                <p class="card-text">My baby sister who is a grown up in college now! Our favorite thing to do is to pig
-                    out and make fun of our older sister.</p>
+                <p class="card-text">My baby sister who I will forever baby. I like to believe that I have always been the nicer and cooler sister to her. We have the most fun when we're making fun of our older sister, Christine, or thinking of what to eat next together.</p>
             </div>
         </div>
         <div class="card">
@@ -228,8 +226,7 @@
                 <h5 class="card-title">Joyce Cho</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
                 <p class="card-text">My first roommate at Cal and forever roommate in my heart. My favorite memories
-                    were of us running to Rhinos before it closed and walking really fast to make it to class. She has a
-                    contagious laugh and a love for life.</p>
+                    were of us running to Rhino's before it closed and walking really fast to make it to class. She has such a contagious laugh and a love for life that I'm constantly inspired by her.</p>
             </div>
         </div>
         <div class="card">
@@ -237,8 +234,7 @@
             <div class="card-body">
                 <h5 class="card-title">Esther Kang</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">Esther and I have been housemates all throughout college and roommates for a few months in SF. We've travelled throughout Europe, and though she's in SF, she is one of my most thoughtful friends who would always reach out, say the most encouraging things, push me to do the right things, and be such an amazing cheerleader in my life.</p>
             </div>
         </div>
         <div class="card">
@@ -246,8 +242,7 @@
             <div class="card-body">
                 <h5 class="card-title">Stella Choi</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.This
-                    card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text">Stella was my roommmate in college for 3 years and has been in LA with me for nearly 6 years. She's been next to me through all my recent life events, as an amazing supporter in everything I do. She has the sweetest and kindest heart that makes her so loveable.</p>
             </div>
         </div>
     </div>
