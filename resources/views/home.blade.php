@@ -318,15 +318,28 @@
     <div class="section-header row justify-content-center">
         <h6>Accommodations</h6>
     </div>
-    <div class="image row justify-content-center">
-        <div class="image__container image--500x500">
-            <div class="image__wrapper">
-                <img src="http://placehold.it/500x500">
-            </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+            <h2>Hotel recommendations</h2>
+            <hr class="hr--divider">
+            <hr class="hr--clear">
         </div>
-        <div class="image__details row align-items-center">
-            <div>
-                <h3>Our travel recommendations</h3>
+    </div>
+    <div class="hotel row justify-content-center">
+        <div class="col-lg-8 text-center">
+            <div class="row">
+                <a href="https://www.google.com/travel/hotels/Culver%20City/place/12484221211765741802?ap=MAFaWgoFCPoBEAAiA1VTRCoWCgcI4w8QARgCEgcI4w8QARgDGAEoALABAXICCAKaAQ0SC0N1bHZlciBDaXR5ogEXCggvbS8wcjA0cBILQ3VsdmVyIENpdHmSAQIgAWIUMTI0ODQyMjEyMTE3NjU3NDE4MDI&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4225813%2C4225901%2C4227717%2C4207631%2C4215556%2C4220469&hl=en&gl=us&un=0&q=culver%20city%20hotels&rp=OAFAAA&ictx=1&ved=0CBoQqOACKAFqFwoTCNDjkOiWxt8CFQAAAAAdAAAAABAR&hrf=CgUI-gEQACIDVVNEKhYKBwjjDxADGB0SBwjjDxADGB8YAiABsAEBcgIIApoBDRILQ3VsdmVyIENpdHmiARcKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eZIBAiAB&tcfs=EjEKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eRoYCgoyMDE5LTAzLTI5EgoyMDE5LTAzLTMxGAIiGAoKMjAxOS0wMy0yORIKMjAxOS0wMy0zMVIA" class="col-md-6">
+                    <img src="/images/sheraton.png">
+                    <p>Room rates start at $133/night</p>
+                </a>
+                <a href="https://www.google.com/travel/hotels/Culver%20City/place/1852112664960715485?ap=MAFaWgoFCPoBEAAiA1VTRCoWCgcI4w8QARgCEgcI4w8QARgDGAEoALABAXICCAKaAQ0SC0N1bHZlciBDaXR5ogEXCggvbS8wcjA0cBILQ3VsdmVyIENpdHmSAQIgAWIUMTI0ODQyMjEyMTE3NjU3NDE4MDI&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4225813%2C4225901%2C4227717%2C4207631%2C4215556%2C4220469&hl=en&gl=us&un=0&q=culver%20city%20hotels&rp=OAFAAA&ictx=1&ved=0CAwQqOACKABqFwoTCNDjkOiWxt8CFQAAAAAdAAAAABAR&hrf=CgUI-gEQACIDVVNEKhYKBwjjDxADGB0SBwjjDxADGB8YAiABsAEBcgIIApoBDRILQ3VsdmVyIENpdHmiARcKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eZIBAiAB&tcfs=EjEKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eRoYCgoyMDE5LTAzLTI5EgoyMDE5LTAzLTMxGAIiGAoKMjAxOS0wMy0yORIKMjAxOS0wMy0zMVIA" class="col-md-6">
+                    <img src="/images/marriott.jpg">
+                    <p>Room rates start at $149/night</p>
+                </a>
+            </div>
+            <hr class="hr--clear">
+            <div class="row">
+                <p>For those travelling to LA or who wish to stay at a hotel near our venue in Culver City, we recommend that you stay at Four Points by Sheraton or Courtyard by Marriott. Both hotels are right near each other and conveniently only 5 minutes away from Playa Studios. These are just our recommendations, feel free to stay wherever you please!</p>
             </div>
         </div>
     </div>
@@ -335,15 +348,23 @@
     <div class="section-header row justify-content-center">
         <h6>Registry</h6>
     </div>
-    <div class="image row justify-content-center">
-        <div class="image__container image--500x500">
-            <div class="image__wrapper">
-                <img src="http://placehold.it/500x500">
-            </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+            <h2>If you're feeling generous</h2>
+            <hr class="hr--divider">
+            <hr class="hr--clear">
         </div>
-        <div class="image__details row align-items-center">
-            <div>
-                <h3>Our registry</h3>
+    </div>
+    <div class="registry row justify-content-center">
+        <div class="col-lg-8 text-center">
+            <div class="row  justify-content-center">
+                <a href="https://www.zola.com/registry/juliaandbrianmarch30">
+                    <img src="/images/zola.jpg">
+                </a>
+            </div>
+            <hr class="hr--clear">
+            <div class="row">
+                <p>We prefer cash as gifts, but we're also registered on Zola for those that prefer to give physical gifts.</p>
             </div>
         </div>
     </div>
@@ -357,7 +378,7 @@
                 href="mailto:hoolsandbrian@gmail.com">hoolsandbrian@gmail.com</a></p>
     </div>
 </div>
-<footer class="container">
+<footer>
     <div class="row justify-content-center">
         <div>
             <small>#hoolsandbrian</small>
