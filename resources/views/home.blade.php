@@ -337,7 +337,7 @@
             </div>
             <div class="row justify-content-center">
                 <p>We have reserved room blocks at both hotels. Please view our instructions to book your room at a slightly discounted rate.</p>
-                <a href="/accommodation" class="btn btn-primary">Learn How</a>
+                <a href="/accommodation" class="btn btn-primary">Book Hotel</a>
             </div>
         </div>
     </div>
