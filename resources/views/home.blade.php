@@ -198,7 +198,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/connie.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Connie Chun</h5>
+                <h6 class="card-title">Connie Chun</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Maid of Honor</h6>
                 <p class="card-text">My high school friend, roommate, and third sister. We bonded our sophomore year when we carpooled to El Camino College for summer classes through lunch, patbingsoo, McDonald's ice cream, and tanning sessions at the beach. Though we split our ways in college, we couldn't stay apart and have been roommates in LA for almost 4 years most recently. She's my confidante and voice of reason.</p>
             </div>
@@ -206,7 +206,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/christine.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Christine Kim</h5>
+                <h6 class="card-title">Christine Kim</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Matron of Honor</h6>
                 <p class="card-text">My older sister who has been through it all with me. She is the nicest person I
                     know with so much generosity and I love taking advantage of being the younger sister when I'm with her. My little sister and I both benefit from her endless generosity and treating us out.</p>
@@ -215,7 +215,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/gloria.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Gloria Kim</h5>
+                <h6 class="card-title">Gloria Kim</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
                 <p class="card-text">My baby sister who I will forever baby. I like to believe that I have always been the nicer and cooler sister to her. We have the most fun when we're making fun of our older sister, Christine, or thinking of what to eat next together.</p>
             </div>
@@ -223,7 +223,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/joyce.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Joyce Cho</h5>
+                <h6 class="card-title">Joyce Cho</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
                 <p class="card-text">My first roommate at Cal and forever roommate in my heart. My favorite memories
                     were of us running to Rhino's before it closed and walking really fast to make it to class. She has such a contagious laugh and a love for life that I'm constantly inspired by her.</p>
@@ -232,7 +232,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/esther.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Esther Kang</h5>
+                <h6 class="card-title">Esther Kang</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
                 <p class="card-text">Esther and I have been housemates all throughout college and roommates for a few months in SF. We've travelled throughout Europe, and though she's in SF, she is one of my most thoughtful friends who would always reach out, say the most encouraging things, push me to do the right things, and be such an amazing cheerleader in my life.</p>
             </div>
@@ -240,7 +240,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/stella.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Stella Choi</h5>
+                <h6 class="card-title">Stella Choi</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Bridesmaid</h6>
                 <p class="card-text">Stella was my roommmate in college for 3 years and has been in LA with me for nearly 6 years. She's been next to me through all my recent life events, as an amazing supporter in everything I do. She has the sweetest and kindest heart that makes her so loveable.</p>
             </div>
@@ -255,7 +255,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/nicolas.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Nicolas Walder</h5>
+                <h6 class="card-title">Nicolas Walder</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Best Man</h6>
                 <p class="card-text">We met as roomates during freshman year at Cal and became instant friends, which
                     lead to us continuing to be roomates after college. Countless bottles of bourbon, cowboy hats, and
@@ -265,7 +265,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/ahrash.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Ahrash Rastegar</h5>
+                <h6 class="card-title">Ahrash Rastegar</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">We met through Nic during college and bonded over watching Nic being ridiculous.
                     Our friendship continues to grow over soccer, terrible memes, and watching Nic eat more than any
@@ -275,7 +275,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/eric.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Eric Taylor</h5>
+                <h6 class="card-title">Eric Taylor</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">We met during the early years of Tradesy and it took time before he wasn't afraid
                     to talk to the scary asian kid. Since then we've been great friends. Fantasy football and poker
@@ -285,7 +285,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/robert.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Robert Toledo</h5>
+                <h6 class="card-title">Robert Toledo</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">We met during the first few months of Tradesy. His excessive use of buzzwords and
                     memes were annoying at first, but gave way to a back and forth of trolling that keeps us going
@@ -295,7 +295,7 @@
         <div class="card">
             <img class="card-img-top" src="/images/mike.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Mike Hemelberg</h5>
+                <h6 class="card-title">Mike Hemelberg</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">We met at Tradesy when he was hired as my manager. With a name like Hemelberg I was
                     expecting an aggressive German dog, but he turned out to be a cool Columbian cat. We spend our time
@@ -305,7 +305,7 @@
         <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Gustavo Blanco</h5>
+                <h6 class="card-title">Gustavo Blanco</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
                 <p class="card-text">We met through Tradesy on the engineering team. Nothing bonds people faster than
                     catered lunches and famous amos cookies. Through our daily discussions about everything life throws
@@ -326,20 +326,18 @@
         </div>
     </div>
     <div class="hotel row justify-content-center">
-        <div class="col-lg-8 text-center">
-            <div class="row">
-                <a href="https://www.google.com/travel/hotels/Culver%20City/place/12484221211765741802?ap=MAFaWgoFCPoBEAAiA1VTRCoWCgcI4w8QARgCEgcI4w8QARgDGAEoALABAXICCAKaAQ0SC0N1bHZlciBDaXR5ogEXCggvbS8wcjA0cBILQ3VsdmVyIENpdHmSAQIgAWIUMTI0ODQyMjEyMTE3NjU3NDE4MDI&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4225813%2C4225901%2C4227717%2C4207631%2C4215556%2C4220469&hl=en&gl=us&un=0&q=culver%20city%20hotels&rp=OAFAAA&ictx=1&ved=0CBoQqOACKAFqFwoTCNDjkOiWxt8CFQAAAAAdAAAAABAR&hrf=CgUI-gEQACIDVVNEKhYKBwjjDxADGB0SBwjjDxADGB8YAiABsAEBcgIIApoBDRILQ3VsdmVyIENpdHmiARcKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eZIBAiAB&tcfs=EjEKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eRoYCgoyMDE5LTAzLTI5EgoyMDE5LTAzLTMxGAIiGAoKMjAxOS0wMy0yORIKMjAxOS0wMy0zMVIA" class="col-md-6">
+        <div class="col-lg-7 text-center">
+            <div class="hotel-logo row">
+                <div class="col-md-6">
                     <img src="/images/sheraton.png">
-                    <p>Room rates start at $133/night</p>
-                </a>
-                <a href="https://www.google.com/travel/hotels/Culver%20City/place/1852112664960715485?ap=MAFaWgoFCPoBEAAiA1VTRCoWCgcI4w8QARgCEgcI4w8QARgDGAEoALABAXICCAKaAQ0SC0N1bHZlciBDaXR5ogEXCggvbS8wcjA0cBILQ3VsdmVyIENpdHmSAQIgAWIUMTI0ODQyMjEyMTE3NjU3NDE4MDI&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4225813%2C4225901%2C4227717%2C4207631%2C4215556%2C4220469&hl=en&gl=us&un=0&q=culver%20city%20hotels&rp=OAFAAA&ictx=1&ved=0CAwQqOACKABqFwoTCNDjkOiWxt8CFQAAAAAdAAAAABAR&hrf=CgUI-gEQACIDVVNEKhYKBwjjDxADGB0SBwjjDxADGB8YAiABsAEBcgIIApoBDRILQ3VsdmVyIENpdHmiARcKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eZIBAiAB&tcfs=EjEKCC9tLzByMDRwEgtDdWx2ZXIgQ2l0eRoYCgoyMDE5LTAzLTI5EgoyMDE5LTAzLTMxGAIiGAoKMjAxOS0wMy0yORIKMjAxOS0wMy0zMVIA" class="col-md-6">
+                </div>
+                <div class="col-md-6">
                     <img src="/images/marriott.jpg">
-                    <p>Room rates start at $149/night</p>
-                </a>
+                </div>
             </div>
-            <hr class="hr--clear">
-            <div class="row">
-                <p>For those travelling to LA or who wish to stay at a hotel near our venue in Culver City, we recommend that you stay at Four Points by Sheraton or Courtyard by Marriott. Both hotels are right near each other and conveniently only 5 minutes away from Playa Studios. These are just our recommendations, feel free to stay wherever you please!</p>
+            <div class="row justify-content-center">
+                <p>We have reserved room blocks at both hotels. Please view our instructions to book your room at a slightly discounted rate.</p>
+                <a href="/accommodation" class="btn btn-primary">Learn How</a>
             </div>
         </div>
     </div>
@@ -369,21 +367,6 @@
         </div>
     </div>
 </div>
-<div id="contact" class="container home-section">
-    <div class="section-header row justify-content-center">
-        <h6>Questions?</h6>
-    </div>
-    <div class="row justify-content-center">
-        <p>For any other questions, please email us at <a
-                href="mailto:hoolsandbrian@gmail.com">hoolsandbrian@gmail.com</a></p>
-    </div>
-</div>
-<footer>
-    <div class="row justify-content-center">
-        <div>
-            <small>#hoolsandbrian</small>
-        </div>
-    </div>
-</footer>
+@include('common.footer')
 </body>
 </html>

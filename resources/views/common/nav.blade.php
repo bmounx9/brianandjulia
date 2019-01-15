@@ -22,6 +22,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="https://brianandjulia.com/#registry">Registry</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://brianandjulia.com/gallery">Gallery</a>
+                </li>
             </ul>
         </div>
     </nav>

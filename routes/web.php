@@ -19,6 +19,10 @@ Route::get('/accommodation', function () {
     return view('accommodation');
 });
 
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+
 // RSVP actions
 Route::get('/rsvp', 'Rsvp\RsvpController@rsvp');
 Route::post('/rsvp', 'Rsvp\RsvpController@rsvp');
