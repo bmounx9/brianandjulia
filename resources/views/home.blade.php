@@ -303,7 +303,7 @@
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="http://placehold.it/500x500" alt="Card image cap">
+            <img class="card-img-top" src="/images/gustavo.jpg" alt="Card image cap">
             <div class="card-body">
                 <h6 class="card-title">Gustavo Blanco</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Groomsman</h6>
