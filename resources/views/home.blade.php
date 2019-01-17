@@ -356,13 +356,13 @@
     <div class="registry row justify-content-center">
         <div class="col-lg-8 text-center">
             <div class="row  justify-content-center">
-                <a href="https://www.zola.com/registry/juliaandbrianmarch30">
+                <a href="https://www.zola.com/registry/juliaandbrianmarch30" target="_blank">
                     <img src="/images/zola.jpg">
                 </a>
             </div>
             <hr class="hr--clear">
             <div class="row">
-                <p>We prefer cash as gifts, but we're also registered on Zola for those that prefer to give physical gifts.</p>
+                <p>Just being there to share in the beginning of our new life is gift enough for us, but if you feel so inclined to purchase a gift, we have registered with Zola.</p>
             </div>
         </div>
     </div>
