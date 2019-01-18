@@ -356,7 +356,7 @@
     <div class="registry row justify-content-center">
         <div class="col-lg-8 text-center">
             <div class="row  justify-content-center">
-                <a href="https://www.zola.com/registry/juliaandbrianmarch30" target="_blank">
+                <a href="www.zola.com/registry/hoolsandbrian" target="_blank">
                     <img src="/images/zola.jpg">
                 </a>
             </div>
