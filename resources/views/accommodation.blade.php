@@ -31,6 +31,7 @@
 					  	<ul class="list-group list-group-flush">
 					  	  	<li class="list-group-item">1 King or 2 Queen: $125/night</li>
 					  	  	<li class="list-group-item">3 people: $135/night, 4 people: $145/night</li>
+					  	  	<li class="list-group-item">Parking: $25/day</li>
 					  	  	<li class="list-group-item">
 					  	  		<h6>How to Book:</h6>
 					  	  		1. Use this link: 
@@ -58,6 +59,7 @@
 					  	<ul class="list-group list-group-flush">
 					  	  	<li class="list-group-item">Standard 1 King: $149/night</li>
 					  	  	<li class="list-group-item">Standard 2 Queen: $159/night</li>
+					  	  	<li class="list-group-item">Parking: $25/day</li>
 					  	  	<li class="list-group-item">
 					  	  		<h6>How to Book:</h6>
 					  	  		1. Use this link: 

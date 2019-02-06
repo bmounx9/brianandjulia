@@ -25,10 +25,10 @@
     </div>
     <div class="image row justify-content-center">
         <div class="col-md-8 col-lg-6">
-            <div class="image__container image--500x500">
-                <div class="image__wrapper">
-                    <img src="/images/julia-brian.jpg">
-                </div>
+            <div class="image__container image--400x800">
+                <a href="/rsvp" class="image__wrapper">
+                    <img src="/images/rsvp.jpg">
+                </a>
             </div>
             <div class="image__details  row">
                 <div>
