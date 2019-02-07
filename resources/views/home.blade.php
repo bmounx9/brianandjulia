@@ -12,7 +12,7 @@
             <p>We can’t wait for you to join us on</p>
             <h2 class="header__title">March 30, 2019</h2>
             <hr class="hr--divider">
-            <p>Ceremony & Reception<br/><a href="https://goo.gl/maps/JjEnS9Y1zxE2">Playa Studios, Culver City</a><br/>
+            <p>Ceremony & Reception<br/><a href="https://goo.gl/maps/JjEnS9Y1zxE2" target="_blank">Playa Studios, Culver City</a><br/>
                 4pm - 11pm
             </p>
         </div>
