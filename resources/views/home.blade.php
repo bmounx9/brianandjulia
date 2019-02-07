@@ -361,8 +361,25 @@
                 </a>
             </div>
             <hr class="hr--clear">
-            <div class="row">
+            <div class="row justify-content-center">
                 <p>Just being there to share in the beginning of our new life is gift enough for us, but if you feel so inclined to purchase a gift, we have registered with Zola.</p>
+                <p>We will also appreciate gifts in cash or digitally via
+                PayPal (juliakim89@gmail.com) or Venmo (@hooliakim)</p>
+                <p>Thank you!</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="gallery" class="container home-section">
+    <div class="section-header row justify-content-center">
+        <h6>Gallery</h6>
+    </div>
+    <div class="image row justify-content-center">
+        <div class="col-md-9 text-center">
+            <div class="image__container image--800x500">
+                <a href="/gallery" class="image__wrapper">
+                    <img src="/images/gallery.jpg">
+                </a>
             </div>
         </div>
     </div>
