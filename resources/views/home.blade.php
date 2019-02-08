@@ -119,7 +119,7 @@
     <div class="row image__details">
         <div>
             <h3>We dated almost 4 years</h3>
-            <p>travelling, eating, exploring, and growing together.</p>
+            <p>traveling, eating, exploring, and growing together.</p>
         </div>
     </div>
     <div class="image row">
