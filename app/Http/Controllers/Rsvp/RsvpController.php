@@ -49,8 +49,8 @@ class RsvpController extends Controller
         $rsvps = DB::select(
             'SELECT * FROM rsvp WHERE first_name = :first_name AND last_name = :last_name',
             [
-                'first_name' => $request->input('first_name'),
-                'last_name' => $request->input('last_name')
+                'first_name' => trim($request->input('first_name')),
+                'last_name' => trim($request->input('last_name'))
             ]
         );
 
