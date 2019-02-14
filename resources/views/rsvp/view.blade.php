@@ -55,7 +55,7 @@
                     <?php endif; ?>
                     <?php if($rsvp->has_children): ?>
                     <div class="col-md-12">
-                        <p>Please enter name(s) of any children that will be attending</p>
+                        <p>Please enter name(s) & age(s) of any children that will be attending</p>
                         <input type="text" name="children" class="form-control" placeholder="Name(s)" value="<?= $rsvp->children; ?>">
                     </div>
                     <?php endif; ?>
