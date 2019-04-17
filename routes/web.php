@@ -15,8 +15,16 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/our-story', function () {
+    return view('our-story');
+});
+
 Route::get('/accommodation', function () {
     return view('accommodation');
+});
+
+Route::get('/registry', function () {
+    return view('registry');
 });
 
 Route::get('/gallery', function () {
