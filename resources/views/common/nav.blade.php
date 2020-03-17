@@ -8,19 +8,10 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/rsvp">RSVP</a>
+                    <a class="nav-link" href="https://brianandjulia.com/our-story">Our Story</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://brianandjulia.com/#our-story">Our Story</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://brianandjulia.com/#wedding-party">Wedding Party</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/accommodation">Accommodations</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://brianandjulia.com/#registry">Registry</a>
+                    <a class="nav-link" href="https://brianandjulia.com/registry">Registry</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://brianandjulia.com/gallery">Gallery</a>
